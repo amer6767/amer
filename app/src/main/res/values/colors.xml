@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette - Zen Greens -->
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#2E7D32</color>
+    <color name="primary_light">#81C784</color>
+    
+    <!-- Bloom Phase Colors -->
+    <color name="bloom_sky">#87CEEB</color>
+    <color name="bloom_grass">#7CB342</color>
+    <color name="bloom_accent">#FFD54F</color>
+    <color name="bloom_glow">#FFF59D</color>
+    
+    <!-- Mist Phase Colors -->
+    <color name="mist_sky">#546E7A</color>
+    <color name="mist_fog">#90A4AE</color>
+    <color name="mist_grass">#558B2F</color>
+    <color name="mist_accent">#B0BEC5</color>
+    
+    <!-- World Tree Colors -->
+    <color name="tree_trunk">#795548</color>
+    <color name="tree_leaves">#43A047</color>
+    <color name="tree_glow">#A5D6A7</color>
+    
+    <!-- Branch Category Colors -->
+    <color name="branch_work">#42A5F5</color>
+    <color name="branch_health">#EF5350</color>
+    <color name="branch_learning">#AB47BC</color>
+    <color name="branch_social">#FFCA28</color>
+    
+    <!-- Stardust -->
+    <color name="stardust">#FFD700</color>
+    <color name="stardust_glow">#FFF8E1</color>
+    
+    <!-- UI Colors -->
+    <color name="surface_dark">#1C1B1F</color>
+    <color name="surface_light">#FFFBFE</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+</resources>
