@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Echo Gardens</string>
+    <string name="focus_start">Start Focus</string>
+    <string name="focus_pause">Pause</string>
+    <string name="focus_resume">Resume</string>
+    <string name="focus_stop">End Session</string>
+    <string name="stardust">Stardust</string>
+    <string name="bloom_phase">Bloom Phase</string>
+    <string name="mist_phase">Mist Phase</string>
+    <string name="work">Work</string>
+    <string name="health">Health</string>
+    <string name="learning">Learning</string>
+    <string name="social">Social</string>
+    <string name="settings">Settings</string>
+    <string name="haptics_enabled">Enable Haptics</string>
+    <string name="sound_enabled">Enable Sound</string>
+    <string name="session_complete">Session Complete!</string>
+    <string name="earned_stardust">You earned %1$d stardust</string>
+</resources>

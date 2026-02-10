@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\focus\FocusViewModel.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\audio\HapticManager.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\audio\SoundManager.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\theme\Theme.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\screens\FocusScreen.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\components\IslandCanvas.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\engine\IslandState.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\theme\Color.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\MainActivity.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\engine\AuraEngine.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\components\SceneViewIsland.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\screens\SettingsScreen.kt
+C:\Users\Lenovo\Desktop\New folder (2)\amer-master\app\src\main\java\com\echogardens\app\ui\screens\HomeScreen.kt

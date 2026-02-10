@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bloom_accent">#FFD54F</color>
+    <color name="bloom_glow">#FFF59D</color>
+    <color name="bloom_grass">#7CB342</color>
+    <color name="bloom_sky">#87CEEB</color>
+    <color name="branch_health">#EF5350</color>
+    <color name="branch_learning">#AB47BC</color>
+    <color name="branch_social">#FFCA28</color>
+    <color name="branch_work">#42A5F5</color>
+    <color name="mist_accent">#B0BEC5</color>
+    <color name="mist_fog">#90A4AE</color>
+    <color name="mist_grass">#558B2F</color>
+    <color name="mist_sky">#546E7A</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#2E7D32</color>
+    <color name="primary_light">#81C784</color>
+    <color name="stardust">#FFD700</color>
+    <color name="stardust_glow">#FFF8E1</color>
+    <color name="surface_dark">#1C1B1F</color>
+    <color name="surface_light">#FFFBFE</color>
+    <color name="tree_glow">#A5D6A7</color>
+    <color name="tree_leaves">#43A047</color>
+    <color name="tree_trunk">#795548</color>
+    <string name="app_name">Echo Gardens</string>
+    <string name="bloom_phase">Bloom Phase</string>
+    <string name="earned_stardust">You earned %1$d stardust</string>
+    <string name="focus_pause">Pause</string>
+    <string name="focus_resume">Resume</string>
+    <string name="focus_start">Start Focus</string>
+    <string name="focus_stop">End Session</string>
+    <string name="haptics_enabled">Enable Haptics</string>
+    <string name="health">Health</string>
+    <string name="learning">Learning</string>
+    <string name="mist_phase">Mist Phase</string>
+    <string name="session_complete">Session Complete!</string>
+    <string name="settings">Settings</string>
+    <string name="social">Social</string>
+    <string name="sound_enabled">Enable Sound</string>
+    <string name="stardust">Stardust</string>
+    <string name="work">Work</string>
+    <style name="Theme.EchoGardens" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
